@@ -25,7 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/@bpmn-io/form-js/dist/assets/form-js.css",
+              "node_modules/@bpmn-io/form-js/dist/assets/form-js-base.css",
+              "node_modules/@bpmn-io/form-js/dist/assets/form-js-editor.css",
+              "node_modules/@bpmn-io/form-js/dist/assets/properties-panel.css"
             ],
             "scripts": []
           },
